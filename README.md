@@ -70,3 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Patrik Borosch** is a Cloud Solution Architect for Data and AI at Microsoft Switzerland GmbH. He has more than 25 years of BI and analytics development, engineering, and architecture experience and is a Microsoft Certified Data Engineer and a Microsoft Certified AI Engineer. Patrik has worked on numerous significant international Data Warehouses, Data Integration, and Big Data projects. There, he has built and extended his experience in all facets from requirement engineering over data modelling and ETL all the way to reporting and dashboarding. At Microsoft Switzerland, he supports customers in their journey into the analytical world of Azure Cloud.
   
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800562936">https://packt.link/free-ebook/9781800562936 </a> </p>
